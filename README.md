@@ -8,7 +8,7 @@ In the resulting Federal investigation, there was a significant amount of typica
 entered into public record, including tens of thousands of emails and detailed financial data for top executives. 
 
 2. Mini-projects:
-
+There are several mini-projects at the end of each lesson. Codes are fully documented.
 
 3. Final Project:
 In the final project, I built a person of interest identifier based on financial and email data made public 
